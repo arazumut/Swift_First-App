@@ -1,5 +1,9 @@
 Swift First-App <br>
 
+![Ekran Resmi 2025-01-02 23 30 40](https://github.com/user-attachments/assets/82a4ed84-a843-4b69-8b34-868e59354820)
+
+
+
 Bu Swift projesi, SwiftUI kullanarak temel bir çok sekmeli uygulama oluşturmayı amaçlamaktadır. Uygulama, kullanıcıların isimlerini girmelerine ve hoş geldiniz mesajlarını görüntülemelerine olanak tanıyan dinamik ve etkileşimli bir arayüz sunar.
 
 Özellikler
