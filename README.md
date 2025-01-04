@@ -1,3 +1,8 @@
+ <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+</a> 
+<br>
+
 Swift First-App <br>
 
 ![Ekran Resmi 2025-01-02 23 30 40](https://github.com/user-attachments/assets/82a4ed84-a843-4b69-8b34-868e59354820)
