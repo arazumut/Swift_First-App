@@ -23,7 +23,7 @@ struct ContentView: View {
             .ignoresSafeArea()
 
             TabView(selection: $selectedTab) {
-                // Home Page
+            
                 VStack {
                     Text("Ana Sayfa")
                         .font(.largeTitle)
