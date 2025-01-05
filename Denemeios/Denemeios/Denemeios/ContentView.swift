@@ -80,7 +80,7 @@ struct ContentView: View {
                 .padding()
                 .tag(0)
 
-                // Profile Page
+                
                 VStack(spacing: 20) {
                     Text("Profil")
                         .font(.largeTitle)
