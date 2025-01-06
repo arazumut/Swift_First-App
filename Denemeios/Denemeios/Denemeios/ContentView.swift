@@ -1,4 +1,4 @@
-//Produced By K.Umut Araz
+// Produced By K.Umut Araz
 
 import SwiftUI
 import PhotosUI
@@ -14,7 +14,7 @@ struct ContentView: View {
 
     var body: some View {
         ZStack {
-        
+            // Background gradient
             LinearGradient(
                 gradient: Gradient(colors: isDarkMode ? [Color.black, Color.gray] : [Color.blue, Color.purple]),
                 startPoint: .top,
@@ -22,9 +22,8 @@ struct ContentView: View {
             )
             .ignoresSafeArea()
 
-            
             TabView(selection: $selectedTab) {
-            
+                // Home Page
                 VStack {
                     Text("Ana Sayfa")
                         .font(.largeTitle)
@@ -81,7 +80,7 @@ struct ContentView: View {
                 .padding()
                 .tag(0)
 
-                
+                // Profile Page
                 VStack(spacing: 20) {
                     Text("Profil")
                         .font(.largeTitle)
